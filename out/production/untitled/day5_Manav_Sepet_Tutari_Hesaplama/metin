@@ -1,0 +1,21 @@
+ Java'da Manav Sepet Tutarı Hesaplayan Program yapacağız.
+
+Proje Konusu
+Java ile kullanıcıların manavdan almış oldukları ürünlerin kilogram değerlerine göre
+toplam tutarını ekrana yazdıran programı yazın.
+
+Ürün Kg Fiyatları
+
+Salatalık : 3,14 TL
+Elma : 4,11 TL
+Kabak : 2,22 TL
+Domates: 0,95 TL
+Patlıcan : 7,00 TL
+
+Örnek Çıktı
+Salatalık Kaç Kilo ? :0
+Elma Kaç Kilo ? :0
+Kabak Kaç Kilo ? :0
+Domates Kaç Kilo ? :1
+Patlıcan Kaç Kilo ? :1
+Toplam Tutar : 7,95 TL

@@ -1,0 +1,12 @@
+bu dersimizde Java'da Girilen Sayıların Üs Değerini Alan Program yapacağız.
+
+Proje Konusu
+Java ile kullanıcının girdiği değerler ile üs alan programı yazın.
+
+Örnek Çıktı
+Üs Alınacak Sayı : 2
+Üs Olacak Sayı : 3
+Cevap : 8
+Bonus Geliştirme
+Projede kullandığınız döngü tipinden farklı bir tip ile yapın.
+(For ile yaptıysanız While ya da While ile yaptıysanız For döngüsü ile yapınız.)

@@ -1,0 +1,14 @@
+ bu dersimizde Java'da Girilen Sayıya Kadar N Kuvveti Bulan Program yapacağız.
+
+Proje Konusu
+Java ile girilen sayıya kadar olan, n değerininde kullacıdan alındığı
+ n sayısının kuvvetlerini ekrana yazdıran programı yazıyoruz.
+
+Örnek Çıktı
+N Değerini Giriniz : 2
+Sınır Değerini Giriniz : 20
+1
+2
+4
+8
+16

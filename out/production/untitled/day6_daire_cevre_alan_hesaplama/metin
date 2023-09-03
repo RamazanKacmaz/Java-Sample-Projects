@@ -1,0 +1,13 @@
+
+
+
+bu dersimizde Java'da Dairenin Alanını ve Çevresini
+Hesaplayan Program yapacağız.
+
+Proje Konusu
+Java ile yarı çap değerini kullanıcıdan alınan dairenin alanını ve
+ çevresini hesaplayan programı yazın.
+
+Daire Alan Formülü : π * r * r
+
+Daire Çevre Formülü : 2 * π * r

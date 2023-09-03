@@ -1,0 +1,20 @@
+Java Örnek Projeler 3 - Hipotenüs Hesaplama
+bu dersimizde Java'da Dik Üçgende Hipotenüs Hesaplayan Program yapacağız.
+
+Proje Konusu
+Java ile kullanıcıdan dik kenarlarının uzunluğunu alan
+ve üçgene ait Hipotenüsü hesaplayan programı yazın.
+
+Örnek Çıktı
+1. Kenarı Giriniz : 3
+2. Kenarı Giriniz : 4
+Hipotenüs : 5
+Bonus Geliştirme
+Hipotenüs teoremi ile bulduğunuz 3. kenar uzunluğu ile
+ birlikte üçgenin alanını hesaplayan programı yazınız.
+
+Formüller ;
+
+Üçgenin Çevresi = 2u
+u = (a+b+c) / 2
+Alan * Alan = u * (u - a) * (u - b) * (u - c)
