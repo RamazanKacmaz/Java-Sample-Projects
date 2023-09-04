@@ -1,0 +1,12 @@
+ bu dersimizde Java'da SMS Mesaj Boyu Hesaplayan Yapan Program yapacağız.
+
+Proje Konusu
+Java ile kullanıcı girdiği metinin mesaj boyunu hesaplayan programı yazın.
+Her bir mesaj karakter sınırı 160 kelimedir.
+
+Örnek Çıktı
+Lütfen mesajınızı girin:
+Merhaba, nasılsın? Bugün hava nasıl?
+Mesajınız 36 karakterden oluşuyor ve 1 SMS'e bölünebilir.
+Bu örnekte, kullanıcının girdiği mesaj 36 karakter uzunluğundadır ve
+bu mesaj bir SMS'e sığabilecek kadar kısadır, bu nedenle SMS sayısı 1'dir.

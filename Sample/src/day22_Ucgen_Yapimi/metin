@@ -1,0 +1,12 @@
+bu dersimizde Java'da Yıldızlar ile Üçgen Yapan Program yapacağız.
+
+Proje Konusu
+Java ile kullanıcı girdiği değer kadar yıldızlar ile eşkenar üçgen oluşturan programı yazın.
+
+Örnek Çıktı
+*
+    ***
+   *****
+  *******
+ *********
+***********
